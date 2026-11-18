@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="385 contributions in the last year: 385 personal, 0 work">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="846 contributions in the last year: 390 personal, 456 work">
 <style>svg{--t1:#f0f6fc;--t2:#9198a1;--personal:#db6d28;--work:#4493f8;--l0:#151b23;--l1:#033a16;--l2:#196c2e;--l3:#2ea043;--l4:#56d364}
 text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--t2)}
 .big{font-size:30px;font-weight:600;fill:var(--t1)}
@@ -8,14 +8,15 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 .p{fill:var(--personal)}.w{fill:var(--work)}.track{fill:var(--l0)}
 </style>
 <text class="cap" x="0" y="14">Contributions in the last year · personal + work</text>
-<text class="big" x="0" y="50">385</text>
+<text class="big" x="0" y="50">846</text>
 <rect x="770" y="5" width="10" height="10" rx="2" class="w"/>
 <text class="cap" x="786" y="14">Work</text>
-<text class="num" x="770" y="46">0<tspan class="cap" dx="6">0%</tspan></text>
+<text class="num" x="770" y="46">456<tspan class="cap" dx="6">54%</tspan></text>
 <rect x="620" y="5" width="10" height="10" rx="2" class="p"/>
 <text class="cap" x="636" y="14">Personal</text>
-<text class="num" x="620" y="46">385<tspan class="cap" dx="6">100%</tspan></text>
-<rect x="0" y="64" width="900.0" height="6" rx="3" class="p"/>
+<text class="num" x="620" y="46">390<tspan class="cap" dx="6">46%</tspan></text>
+<rect x="0" y="64" width="412.9" height="6" rx="3" class="p"/>
+<rect x="416.9" y="64" width="483.1" height="6" rx="3" class="w"/>
 <text x="32.0" y="104">Nov</text>
 <text x="81.1" y="104">Dec</text>
 <text x="146.6" y="104">Jan</text>
@@ -135,7 +136,7 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="261.3" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Feb 24, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="261.3" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Feb 25, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="261.3" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Feb 26, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="261.3" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Feb 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="261.3" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Feb 27, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="261.3" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Feb 28, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="277.7" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Mar 1, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="277.7" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Mar 2, 2026: 0 contributions (personal 0, work 0)</title></rect>
@@ -169,7 +170,7 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="343.2" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Mar 30, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="343.2" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Mar 31, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="343.2" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 1, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="343.2" y="177.5" width="13.4" height="13.4" rx="2" class="l2"><title>Apr 2, 2026: 6 contributions (personal 6, work 0)</title></rect>
+<rect x="343.2" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Apr 2, 2026: 6 contributions (personal 6, work 0)</title></rect>
 <rect x="343.2" y="193.9" width="13.4" height="13.4" rx="2" class="l4"><title>Apr 3, 2026: 120 contributions (personal 120, work 0)</title></rect>
 <rect x="343.2" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 4, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="359.5" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 5, 2026: 0 contributions (personal 0, work 0)</title></rect>
@@ -195,34 +196,34 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="392.3" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 25, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="408.7" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 26, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="408.7" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="408.7" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 28, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="408.7" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Apr 28, 2026: 2 contributions (personal 0, work 2)</title></rect>
 <rect x="408.7" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Apr 29, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="408.7" y="177.5" width="13.4" height="13.4" rx="2" class="l4"><title>Apr 30, 2026: 29 contributions (personal 29, work 0)</title></rect>
 <rect x="408.7" y="193.9" width="13.4" height="13.4" rx="2" class="l4"><title>May 1, 2026: 34 contributions (personal 34, work 0)</title></rect>
 <rect x="408.7" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>May 2, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="425.1" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>May 3, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="425.1" y="128.4" width="13.4" height="13.4" rx="2" class="l2"><title>May 4, 2026: 8 contributions (personal 8, work 0)</title></rect>
-<rect x="425.1" y="144.8" width="13.4" height="13.4" rx="2" class="l2"><title>May 5, 2026: 6 contributions (personal 6, work 0)</title></rect>
+<rect x="425.1" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>May 5, 2026: 6 contributions (personal 6, work 0)</title></rect>
 <rect x="425.1" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>May 6, 2026: 3 contributions (personal 3, work 0)</title></rect>
 <rect x="425.1" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>May 7, 2026: 1 contribution (personal 1, work 0)</title></rect>
-<rect x="425.1" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>May 8, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="425.1" y="193.9" width="13.4" height="13.4" rx="2" class="l4"><title>May 8, 2026: 22 contributions (personal 0, work 22)</title></rect>
 <rect x="425.1" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>May 9, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="441.4" y="112.0" width="13.4" height="13.4" rx="2" class="l2"><title>May 10, 2026: 5 contributions (personal 5, work 0)</title></rect>
+<rect x="441.4" y="112.0" width="13.4" height="13.4" rx="2" class="l1"><title>May 10, 2026: 5 contributions (personal 5, work 0)</title></rect>
 <rect x="441.4" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>May 11, 2026: 1 contribution (personal 1, work 0)</title></rect>
-<rect x="441.4" y="144.8" width="13.4" height="13.4" rx="2" class="l2"><title>May 12, 2026: 6 contributions (personal 6, work 0)</title></rect>
+<rect x="441.4" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>May 12, 2026: 6 contributions (personal 6, work 0)</title></rect>
 <rect x="441.4" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>May 13, 2026: 3 contributions (personal 3, work 0)</title></rect>
 <rect x="441.4" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>May 14, 2026: 2 contributions (personal 2, work 0)</title></rect>
 <rect x="441.4" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>May 15, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="441.4" y="210.3" width="13.4" height="13.4" rx="2" class="l4"><title>May 16, 2026: 17 contributions (personal 17, work 0)</title></rect>
-<rect x="457.8" y="112.0" width="13.4" height="13.4" rx="2" class="l2"><title>May 17, 2026: 7 contributions (personal 7, work 0)</title></rect>
+<rect x="441.4" y="210.3" width="13.4" height="13.4" rx="2" class="l3"><title>May 16, 2026: 17 contributions (personal 17, work 0)</title></rect>
+<rect x="457.8" y="112.0" width="13.4" height="13.4" rx="2" class="l1"><title>May 17, 2026: 7 contributions (personal 7, work 0)</title></rect>
 <rect x="457.8" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>May 18, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="457.8" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>May 19, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="457.8" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>May 20, 2026: 1 contribution (personal 1, work 0)</title></rect>
-<rect x="457.8" y="177.5" width="13.4" height="13.4" rx="2" class="l2"><title>May 21, 2026: 6 contributions (personal 6, work 0)</title></rect>
-<rect x="457.8" y="193.9" width="13.4" height="13.4" rx="2" class="l4"><title>May 22, 2026: 18 contributions (personal 18, work 0)</title></rect>
+<rect x="457.8" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>May 21, 2026: 6 contributions (personal 6, work 0)</title></rect>
+<rect x="457.8" y="193.9" width="13.4" height="13.4" rx="2" class="l3"><title>May 22, 2026: 18 contributions (personal 18, work 0)</title></rect>
 <rect x="457.8" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>May 23, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="474.2" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>May 24, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="474.2" y="128.4" width="13.4" height="13.4" rx="2" class="l2"><title>May 25, 2026: 7 contributions (personal 7, work 0)</title></rect>
+<rect x="474.2" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>May 25, 2026: 7 contributions (personal 7, work 0)</title></rect>
 <rect x="474.2" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>May 26, 2026: 1 contribution (personal 1, work 0)</title></rect>
 <rect x="474.2" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>May 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="474.2" y="177.5" width="13.4" height="13.4" rx="2" class="l2"><title>May 28, 2026: 8 contributions (personal 8, work 0)</title></rect>
@@ -253,19 +254,19 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="539.7" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 22, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="539.7" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 23, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="539.7" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 24, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="539.7" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 25, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="539.7" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Jun 25, 2026: 2 contributions (personal 0, work 2)</title></rect>
 <rect x="539.7" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 26, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="539.7" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="556.1" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 28, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="556.1" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Jun 29, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="556.1" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Jun 30, 2026: 2 contributions (personal 2, work 0)</title></rect>
-<rect x="556.1" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 1, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="556.1" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 2, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="556.1" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Jun 30, 2026: 3 contributions (personal 2, work 1)</title></rect>
+<rect x="556.1" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 1, 2026: 1 contribution (personal 0, work 1)</title></rect>
+<rect x="556.1" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 2, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="556.1" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 3, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="556.1" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 4, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="572.5" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 5, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="572.5" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 6, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="572.5" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 7, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="572.5" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 7, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="572.5" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 8, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="572.5" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 9, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="572.5" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 10, 2026: 0 contributions (personal 0, work 0)</title></rect>
@@ -273,51 +274,51 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="588.8" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 12, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="588.8" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 13, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="588.8" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 14, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="588.8" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 15, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="588.8" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 15, 2026: 2 contributions (personal 0, work 2)</title></rect>
 <rect x="588.8" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 16, 2026: 3 contributions (personal 3, work 0)</title></rect>
 <rect x="588.8" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 17, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="588.8" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 18, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="605.2" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 19, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="605.2" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 20, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="605.2" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 21, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="605.2" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 20, 2026: 1 contribution (personal 0, work 1)</title></rect>
+<rect x="605.2" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 21, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="605.2" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 22, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="605.2" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 23, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="605.2" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 24, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="605.2" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 24, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="605.2" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 25, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="621.6" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 26, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="621.6" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="621.6" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 28, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="621.6" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 29, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="621.6" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 30, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="621.6" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 27, 2026: 3 contributions (personal 0, work 3)</title></rect>
+<rect x="621.6" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 28, 2026: 5 contributions (personal 0, work 5)</title></rect>
+<rect x="621.6" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 29, 2026: 4 contributions (personal 0, work 4)</title></rect>
+<rect x="621.6" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Jul 30, 2026: 4 contributions (personal 0, work 4)</title></rect>
 <rect x="621.6" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Jul 31, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="621.6" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 1, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="638.0" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 2, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="638.0" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 3, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="638.0" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 4, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="638.0" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 5, 2026: 4 contributions (personal 4, work 0)</title></rect>
-<rect x="638.0" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 6, 2026: 2 contributions (personal 2, work 0)</title></rect>
-<rect x="638.0" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 7, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="638.0" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 3, 2026: 6 contributions (personal 0, work 6)</title></rect>
+<rect x="638.0" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 4, 2026: 4 contributions (personal 0, work 4)</title></rect>
+<rect x="638.0" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 5, 2026: 6 contributions (personal 4, work 2)</title></rect>
+<rect x="638.0" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 6, 2026: 5 contributions (personal 2, work 3)</title></rect>
+<rect x="638.0" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 7, 2026: 2 contributions (personal 0, work 2)</title></rect>
 <rect x="638.0" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 8, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="654.3" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 9, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="654.3" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 10, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="654.3" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 11, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="654.3" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 12, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="654.3" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 11, 2026: 4 contributions (personal 0, work 4)</title></rect>
+<rect x="654.3" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 12, 2026: 2 contributions (personal 0, work 2)</title></rect>
 <rect x="654.3" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 13, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="654.3" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 14, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="654.3" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 15, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="670.7" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 16, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="670.7" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 17, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="670.7" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 18, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="670.7" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 19, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="670.7" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 18, 2026: 1 contribution (personal 0, work 1)</title></rect>
+<rect x="670.7" y="161.1" width="13.4" height="13.4" rx="2" class="l2"><title>Aug 19, 2026: 10 contributions (personal 0, work 10)</title></rect>
 <rect x="670.7" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 20, 2026: 2 contributions (personal 2, work 0)</title></rect>
 <rect x="670.7" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 21, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="670.7" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 22, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="687.1" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 23, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="687.1" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 24, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="687.1" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 25, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="687.1" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 24, 2026: 1 contribution (personal 0, work 1)</title></rect>
+<rect x="687.1" y="144.8" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 25, 2026: 3 contributions (personal 0, work 3)</title></rect>
 <rect x="687.1" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 26, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="687.1" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="687.1" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 28, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="687.1" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Aug 28, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="687.1" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 29, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="703.5" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 30, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="703.5" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Aug 31, 2026: 0 contributions (personal 0, work 0)</title></rect>
@@ -330,14 +331,14 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="719.8" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 7, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="719.8" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 8, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="719.8" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 9, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="719.8" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 10, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="719.8" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 11, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="719.8" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Sep 10, 2026: 2 contributions (personal 0, work 2)</title></rect>
+<rect x="719.8" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Sep 11, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="719.8" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 12, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="736.2" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 13, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="736.2" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 14, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="736.2" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 15, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="736.2" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 16, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="736.2" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 17, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="736.2" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Sep 17, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="736.2" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 18, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="736.2" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 19, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="752.6" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 20, 2026: 0 contributions (personal 0, work 0)</title></rect>
@@ -346,61 +347,61 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="752.6" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Sep 23, 2026: 3 contributions (personal 3, work 0)</title></rect>
 <rect x="752.6" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 24, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="752.6" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 25, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="752.6" y="210.3" width="13.4" height="13.4" rx="2" class="l2"><title>Sep 26, 2026: 7 contributions (personal 7, work 0)</title></rect>
+<rect x="752.6" y="210.3" width="13.4" height="13.4" rx="2" class="l1"><title>Sep 26, 2026: 7 contributions (personal 7, work 0)</title></rect>
 <rect x="769.0" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 27, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="769.0" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 28, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="769.0" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 29, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="769.0" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Sep 30, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="769.0" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 1, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="769.0" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 2, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="769.0" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 2, 2026: 1 contribution (personal 0, work 1)</title></rect>
 <rect x="769.0" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 3, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="785.4" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 4, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="785.4" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 5, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="785.4" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 6, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="785.4" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 7, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="785.4" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 8, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="785.4" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 9, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="785.4" y="177.5" width="13.4" height="13.4" rx="2" class="l2"><title>Oct 8, 2026: 8 contributions (personal 0, work 8)</title></rect>
+<rect x="785.4" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 9, 2026: 5 contributions (personal 0, work 5)</title></rect>
 <rect x="785.4" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 10, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="801.7" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 11, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="801.7" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 12, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="801.7" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 13, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="801.7" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 14, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="801.7" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 15, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="801.7" y="144.8" width="13.4" height="13.4" rx="2" class="l4"><title>Oct 13, 2026: 29 contributions (personal 0, work 29)</title></rect>
+<rect x="801.7" y="161.1" width="13.4" height="13.4" rx="2" class="l3"><title>Oct 14, 2026: 18 contributions (personal 0, work 18)</title></rect>
+<rect x="801.7" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 15, 2026: 3 contributions (personal 0, work 3)</title></rect>
 <rect x="801.7" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 16, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="801.7" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 17, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="818.1" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 18, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="818.1" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 19, 2026: 1 contribution (personal 1, work 0)</title></rect>
 <rect x="818.1" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 20, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="818.1" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 21, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="818.1" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 22, 2026: 0 contributions (personal 0, work 0)</title></rect>
+<rect x="818.1" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 21, 2026: 7 contributions (personal 0, work 7)</title></rect>
+<rect x="818.1" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 22, 2026: 3 contributions (personal 0, work 3)</title></rect>
 <rect x="818.1" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 23, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="818.1" y="210.3" width="13.4" height="13.4" rx="2" class="l3"><title>Oct 24, 2026: 11 contributions (personal 11, work 0)</title></rect>
+<rect x="818.1" y="210.3" width="13.4" height="13.4" rx="2" class="l2"><title>Oct 24, 2026: 11 contributions (personal 11, work 0)</title></rect>
 <rect x="834.5" y="112.0" width="13.4" height="13.4" rx="2" class="l2"><title>Oct 25, 2026: 9 contributions (personal 9, work 0)</title></rect>
-<rect x="834.5" y="128.4" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 26, 2026: 2 contributions (personal 2, work 0)</title></rect>
-<rect x="834.5" y="144.8" width="13.4" height="13.4" rx="2" class="l3"><title>Oct 27, 2026: 13 contributions (personal 13, work 0)</title></rect>
-<rect x="834.5" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 28, 2026: 3 contributions (personal 3, work 0)</title></rect>
-<rect x="834.5" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 29, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="834.5" y="193.9" width="13.4" height="13.4" rx="2" class="l2"><title>Oct 30, 2026: 5 contributions (personal 5, work 0)</title></rect>
+<rect x="834.5" y="128.4" width="13.4" height="13.4" rx="2" class="l4"><title>Oct 26, 2026: 98 contributions (personal 2, work 96)</title></rect>
+<rect x="834.5" y="144.8" width="13.4" height="13.4" rx="2" class="l4"><title>Oct 27, 2026: 50 contributions (personal 13, work 37)</title></rect>
+<rect x="834.5" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 28, 2026: 5 contributions (personal 3, work 2)</title></rect>
+<rect x="834.5" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 29, 2026: 7 contributions (personal 0, work 7)</title></rect>
+<rect x="834.5" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Oct 30, 2026: 5 contributions (personal 5, work 0)</title></rect>
 <rect x="834.5" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Oct 31, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="850.9" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 1, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="850.9" y="128.4" width="13.4" height="13.4" rx="2" class="l3"><title>Nov 2, 2026: 12 contributions (personal 12, work 0)</title></rect>
+<rect x="850.9" y="128.4" width="13.4" height="13.4" rx="2" class="l2"><title>Nov 2, 2026: 13 contributions (personal 12, work 1)</title></rect>
 <rect x="850.9" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 3, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="850.9" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 4, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="850.9" y="177.5" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 5, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="850.9" y="193.9" width="13.4" height="13.4" rx="2" class="l1"><title>Nov 6, 2026: 1 contribution (personal 1, work 0)</title></rect>
+<rect x="850.9" y="161.1" width="13.4" height="13.4" rx="2" class="l2"><title>Nov 4, 2026: 14 contributions (personal 0, work 14)</title></rect>
+<rect x="850.9" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Nov 5, 2026: 3 contributions (personal 0, work 3)</title></rect>
+<rect x="850.9" y="193.9" width="13.4" height="13.4" rx="2" class="l4"><title>Nov 6, 2026: 32 contributions (personal 1, work 31)</title></rect>
 <rect x="850.9" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 7, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="867.2" y="112.0" width="13.4" height="13.4" rx="2" class="l2"><title>Nov 8, 2026: 7 contributions (personal 7, work 0)</title></rect>
-<rect x="867.2" y="128.4" width="13.4" height="13.4" rx="2" class="l2"><title>Nov 9, 2026: 5 contributions (personal 5, work 0)</title></rect>
-<rect x="867.2" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 10, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="867.2" y="161.1" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 11, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="867.2" y="177.5" width="13.4" height="13.4" rx="2" class="l1"><title>Nov 12, 2026: 1 contribution (personal 1, work 0)</title></rect>
+<rect x="867.2" y="112.0" width="13.4" height="13.4" rx="2" class="l1"><title>Nov 8, 2026: 7 contributions (personal 7, work 0)</title></rect>
+<rect x="867.2" y="128.4" width="13.4" height="13.4" rx="2" class="l2"><title>Nov 9, 2026: 11 contributions (personal 5, work 6)</title></rect>
+<rect x="867.2" y="144.8" width="13.4" height="13.4" rx="2" class="l3"><title>Nov 10, 2026: 16 contributions (personal 0, work 16)</title></rect>
+<rect x="867.2" y="161.1" width="13.4" height="13.4" rx="2" class="l4"><title>Nov 11, 2026: 41 contributions (personal 0, work 41)</title></rect>
+<rect x="867.2" y="177.5" width="13.4" height="13.4" rx="2" class="l4"><title>Nov 12, 2026: 23 contributions (personal 1, work 22)</title></rect>
 <rect x="867.2" y="193.9" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 13, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="867.2" y="210.3" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 14, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="883.6" y="112.0" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 15, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="883.6" y="128.4" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 16, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="883.6" y="144.8" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 17, 2026: 0 contributions (personal 0, work 0)</title></rect>
-<rect x="883.6" y="161.1" width="13.4" height="13.4" rx="2" class="l1"><title>Nov 18, 2026: 3 contributions (personal 3, work 0)</title></rect>
-<text x="0" y="253.6">126</text>
+<rect x="883.6" y="161.1" width="13.4" height="13.4" rx="2" class="l3"><title>Nov 18, 2026: 19 contributions (personal 8, work 11)</title></rect>
+<text x="0" y="253.6">174</text>
 <text x="0" y="289.6">0</text>
 <text x="0" y="271.6" class="cap">/wk</text>
 <g><title>Week of Nov 16: personal 0, work 0</title>
@@ -445,8 +446,9 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <g><title>Week of Feb 15: personal 0, work 0</title>
 <rect x="244.9" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 </g>
-<g><title>Week of Feb 22: personal 0, work 0</title>
+<g><title>Week of Feb 22: personal 0, work 1</title>
 <rect x="261.3" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="261.3" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
 <g><title>Week of Mar 1: personal 0, work 0</title>
 <rect x="277.7" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
@@ -462,7 +464,7 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 </g>
 <g><title>Week of Mar 29: personal 126, work 0</title>
 <rect x="343.2" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="343.2" y="245.6" width="13.4" height="44.0" rx="1.5" class="p"/>
+<rect x="343.2" y="257.8" width="13.4" height="31.9" rx="1.5" class="p"/>
 </g>
 <g><title>Week of Apr 5: personal 0, work 0</title>
 <rect x="359.5" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
@@ -473,25 +475,27 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <g><title>Week of Apr 19: personal 0, work 0</title>
 <rect x="392.3" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 </g>
-<g><title>Week of Apr 26: personal 63, work 0</title>
+<g><title>Week of Apr 26: personal 63, work 2</title>
 <rect x="408.7" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="408.7" y="267.6" width="13.4" height="22.0" rx="1.5" class="p"/>
+<rect x="408.7" y="273.7" width="13.4" height="15.9" rx="1.5" class="p"/>
+<rect x="408.7" y="269.7" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of May 3: personal 18, work 0</title>
+<g><title>Week of May 3: personal 18, work 22</title>
 <rect x="425.1" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="425.1" y="283.4" width="13.4" height="6.3" rx="1.5" class="p"/>
+<rect x="425.1" y="285.1" width="13.4" height="4.6" rx="1.5" class="p"/>
+<rect x="425.1" y="277.5" width="13.4" height="5.6" rx="1.5" class="w"/>
 </g>
 <g><title>Week of May 10: personal 34, work 0</title>
 <rect x="441.4" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="441.4" y="277.8" width="13.4" height="11.9" rx="1.5" class="p"/>
+<rect x="441.4" y="281.0" width="13.4" height="8.6" rx="1.5" class="p"/>
 </g>
 <g><title>Week of May 17: personal 32, work 0</title>
 <rect x="457.8" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="457.8" y="278.5" width="13.4" height="11.2" rx="1.5" class="p"/>
+<rect x="457.8" y="281.5" width="13.4" height="8.1" rx="1.5" class="p"/>
 </g>
 <g><title>Week of May 24: personal 16, work 0</title>
 <rect x="474.2" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="474.2" y="284.1" width="13.4" height="5.6" rx="1.5" class="p"/>
+<rect x="474.2" y="285.6" width="13.4" height="4.0" rx="1.5" class="p"/>
 </g>
 <g><title>Week of May 31: personal 0, work 0</title>
 <rect x="490.6" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
@@ -502,81 +506,101 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <g><title>Week of Jun 14: personal 0, work 0</title>
 <rect x="523.3" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 </g>
-<g><title>Week of Jun 21: personal 0, work 0</title>
+<g><title>Week of Jun 21: personal 0, work 2</title>
 <rect x="539.7" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="539.7" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Jun 28: personal 2, work 0</title>
+<g><title>Week of Jun 28: personal 2, work 3</title>
 <rect x="556.1" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 <rect x="556.1" y="287.6" width="13.4" height="2.0" rx="1.5" class="p"/>
+<rect x="556.1" y="283.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Jul 5: personal 0, work 0</title>
+<g><title>Week of Jul 5: personal 0, work 1</title>
 <rect x="572.5" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="572.5" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Jul 12: personal 3, work 0</title>
+<g><title>Week of Jul 12: personal 3, work 2</title>
 <rect x="588.8" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 <rect x="588.8" y="287.6" width="13.4" height="2.0" rx="1.5" class="p"/>
+<rect x="588.8" y="283.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Jul 19: personal 0, work 0</title>
+<g><title>Week of Jul 19: personal 0, work 3</title>
 <rect x="605.2" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="605.2" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Jul 26: personal 0, work 0</title>
+<g><title>Week of Jul 26: personal 0, work 16</title>
 <rect x="621.6" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="621.6" y="285.6" width="13.4" height="4.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Aug 2: personal 6, work 0</title>
+<g><title>Week of Aug 2: personal 6, work 17</title>
 <rect x="638.0" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="638.0" y="287.5" width="13.4" height="2.1" rx="1.5" class="p"/>
+<rect x="638.0" y="287.6" width="13.4" height="2.0" rx="1.5" class="p"/>
+<rect x="638.0" y="281.3" width="13.4" height="4.3" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Aug 9: personal 0, work 0</title>
+<g><title>Week of Aug 9: personal 0, work 6</title>
 <rect x="654.3" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="654.3" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Aug 16: personal 2, work 0</title>
+<g><title>Week of Aug 16: personal 2, work 11</title>
 <rect x="670.7" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 <rect x="670.7" y="287.6" width="13.4" height="2.0" rx="1.5" class="p"/>
+<rect x="670.7" y="282.9" width="13.4" height="2.8" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Aug 23: personal 0, work 0</title>
+<g><title>Week of Aug 23: personal 0, work 5</title>
 <rect x="687.1" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="687.1" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
 <g><title>Week of Aug 30: personal 0, work 0</title>
 <rect x="703.5" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 </g>
-<g><title>Week of Sep 6: personal 0, work 0</title>
+<g><title>Week of Sep 6: personal 0, work 3</title>
 <rect x="719.8" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="719.8" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Sep 13: personal 0, work 0</title>
+<g><title>Week of Sep 13: personal 0, work 1</title>
 <rect x="736.2" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="736.2" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
 <g><title>Week of Sep 20: personal 10, work 0</title>
 <rect x="752.6" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="752.6" y="286.1" width="13.4" height="3.5" rx="1.5" class="p"/>
+<rect x="752.6" y="287.1" width="13.4" height="2.5" rx="1.5" class="p"/>
 </g>
-<g><title>Week of Sep 27: personal 0, work 0</title>
+<g><title>Week of Sep 27: personal 0, work 1</title>
 <rect x="769.0" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="769.0" y="287.6" width="13.4" height="2.0" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Oct 4: personal 0, work 0</title>
+<g><title>Week of Oct 4: personal 0, work 13</title>
 <rect x="785.4" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="785.4" y="286.4" width="13.4" height="3.3" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Oct 11: personal 0, work 0</title>
+<g><title>Week of Oct 11: personal 0, work 50</title>
 <rect x="801.7" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
+<rect x="801.7" y="277.0" width="13.4" height="12.6" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Oct 18: personal 12, work 0</title>
+<g><title>Week of Oct 18: personal 12, work 10</title>
 <rect x="818.1" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="818.1" y="285.5" width="13.4" height="4.2" rx="1.5" class="p"/>
+<rect x="818.1" y="286.6" width="13.4" height="3.0" rx="1.5" class="p"/>
+<rect x="818.1" y="282.1" width="13.4" height="2.5" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Oct 25: personal 32, work 0</title>
+<g><title>Week of Oct 25: personal 32, work 142</title>
 <rect x="834.5" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="834.5" y="278.5" width="13.4" height="11.2" rx="1.5" class="p"/>
+<rect x="834.5" y="281.5" width="13.4" height="8.1" rx="1.5" class="p"/>
+<rect x="834.5" y="243.6" width="13.4" height="35.9" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Nov 1: personal 13, work 0</title>
+<g><title>Week of Nov 1: personal 13, work 49</title>
 <rect x="850.9" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="850.9" y="285.1" width="13.4" height="4.5" rx="1.5" class="p"/>
+<rect x="850.9" y="286.4" width="13.4" height="3.3" rx="1.5" class="p"/>
+<rect x="850.9" y="272.0" width="13.4" height="12.4" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Nov 8: personal 13, work 0</title>
+<g><title>Week of Nov 8: personal 13, work 85</title>
 <rect x="867.2" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
-<rect x="867.2" y="285.1" width="13.4" height="4.5" rx="1.5" class="p"/>
+<rect x="867.2" y="286.4" width="13.4" height="3.3" rx="1.5" class="p"/>
+<rect x="867.2" y="262.9" width="13.4" height="21.5" rx="1.5" class="w"/>
 </g>
-<g><title>Week of Nov 15: personal 3, work 0</title>
+<g><title>Week of Nov 15: personal 8, work 11</title>
 <rect x="883.6" y="245.6" width="13.4" height="44" fill="none" pointer-events="all"/>
 <rect x="883.6" y="287.6" width="13.4" height="2.0" rx="1.5" class="p"/>
+<rect x="883.6" y="282.8" width="13.4" height="2.8" rx="1.5" class="w"/>
 </g>
 <rect x="32" y="304.64150943396226" width="10" height="10" rx="2" class="p"/>
 <text x="47" y="313.64150943396226">Personal</text>
