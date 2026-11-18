@@ -22,8 +22,13 @@ You can also edit the JSON by hand: `{"2026-11-17": 4, "2026-11-18": 2}`.
 ## 3. Embed it in README.md
 
 ```
-![Contributions](./combined-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./combined-graph-dark.svg">
+  <img alt="Contributions in the last year" src="./combined-graph-light.svg" width="100%">
+</picture>
 ```
+
+GitHub swaps the light and dark files to match the viewer's GitHub theme.
 
 ## 4. Run it once
 Repo → Actions → "Combined contribution graph" → Run workflow. After that it
