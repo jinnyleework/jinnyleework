@@ -1,0 +1,1 @@
+![Contributions](./combined-graph.svg)
