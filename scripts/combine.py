@@ -7,9 +7,11 @@ Env:
   WORK_LOGIN      optional work username; its public calendar is merged with
                   data/work-contributions.json, taking the larger count per day
 """
+import hashlib
 import json
 import math
 import os
+import re
 import sys
 import urllib.request
 from datetime import date, timedelta
@@ -18,6 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 WORK_FILE = ROOT / "data" / "work-contributions.json"
 OUT_DIR = ROOT
+README = ROOT / "README.md"
 
 QUERY = """
 query($login: String!) {
@@ -231,8 +234,21 @@ def main():
 
     for theme in THEMES:
         out = OUT_DIR / f"combined-graph-{theme}.svg"
-        out.write_text(render(personal, work, date.today(), theme))
+        svg = render(personal, work, date.today(), theme)
+        out.write_text(svg)
         print(f"Wrote {out.name}")
+        bust_cache(out.name, hashlib.sha1(svg.encode()).hexdigest()[:8])
+
+
+def bust_cache(name, version):
+    # GitHub caches raw files for 5 minutes per URL, so give the README a new
+    # URL whenever the graph changes.
+    if not README.exists():
+        return
+    text = README.read_text()
+    updated = re.sub(rf"{re.escape(name)}(\?v=\w+)?", f"{name}?v={version}", text)
+    if updated != text:
+        README.write_text(updated)
 
 
 if __name__ == "__main__":
