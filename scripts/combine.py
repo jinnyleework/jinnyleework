@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WORK_FILE = ROOT / "data" / "work-contributions.json"
-OUT_DIR = ROOT
+OUT_DIR = ROOT / "graph"
 README = ROOT / "README.md"
 
 QUERY = """
@@ -37,7 +37,7 @@ query($login: String!) {
 WIDTH = 900
 LEFT = 32           # weekday label gutter
 GAP = 3
-HEAT_TOP = 112      # first heatmap row
+HEAT_TOP = 92       # first heatmap row
 BAR_H = 44          # weekly bar strip height
 MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 FONT = '-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif'
@@ -57,7 +57,7 @@ text{{font:10px {FONT};fill:var(--t2)}}
 .num{{font-size:18px;font-weight:600;fill:var(--t1)}}
 .cap{{font-size:11px}}
 .l0{{fill:var(--l0)}}.l1{{fill:var(--l1)}}.l2{{fill:var(--l2)}}.l3{{fill:var(--l3)}}.l4{{fill:var(--l4)}}
-.p{{fill:var(--personal)}}.w{{fill:var(--work)}}.track{{fill:var(--l0)}}
+.p{{fill:var(--personal)}}.w{{fill:var(--work)}}
 """
 
 
@@ -136,23 +136,10 @@ def render(personal, work, end, theme="light"):
     out.append('<text class="cap" x="0" y="14">Contributions in the last year · personal + work</text>')
     out.append(f'<text class="big" x="0" y="50">{total:,}</text>')
     for i, (label, cls, n) in enumerate((("Work", "w", total_w), ("Personal", "p", total_p))):
-        x = WIDTH - 150 * (i + 1) + 20
-        share = f"{round(100 * n / total)}%" if total else "–"
+        x = WIDTH - 120 * (i + 1) + 20
         out.append(f'<rect x="{x}" y="5" width="10" height="10" rx="2" class="{cls}"/>')
         out.append(f'<text class="cap" x="{x + 16}" y="14">{label}</text>')
-        out.append(f'<text class="num" x="{x}" y="46">{n:,}<tspan class="cap" dx="6">{share}</tspan></text>')
-
-    # Share bar: personal then work, 2px gap between.
-    bar_y = 64
-    if total:
-        pw = WIDTH * total_p / total
-        if total_p:
-            out.append(f'<rect x="0" y="{bar_y}" width="{pw - (2 if total_w else 0):.1f}" height="6" rx="3" class="p"/>')
-        if total_w:
-            x = pw + (2 if total_p else 0)
-            out.append(f'<rect x="{x:.1f}" y="{bar_y}" width="{WIDTH - x:.1f}" height="6" rx="3" class="w"/>')
-    else:
-        out.append(f'<rect x="0" y="{bar_y}" width="{WIDTH}" height="6" rx="3" class="track"/>')
+        out.append(f'<text class="num" x="{x}" y="46">{n:,}</text>')
 
     # Month labels.
     last_label, prev_month = -3, None
@@ -232,21 +219,26 @@ def main():
         for day, n in fetch_calendar(work_login, token).items():
             work[day] = max(work.get(day, 0), n)
 
+    # GitHub caches raw files for 5 minutes per path and ignores query strings,
+    # so each version of the graph gets its own filename.
+    OUT_DIR.mkdir(exist_ok=True)
     for theme in THEMES:
-        out = OUT_DIR / f"combined-graph-{theme}.svg"
         svg = render(personal, work, date.today(), theme)
-        out.write_text(svg)
-        print(f"Wrote {out.name}")
-        bust_cache(out.name, hashlib.sha1(svg.encode()).hexdigest()[:8])
+        name = f"{theme}-{hashlib.sha1(svg.encode()).hexdigest()[:8]}.svg"
+        for old in OUT_DIR.glob(f"{theme}-*.svg"):
+            if old.name != name:
+                old.unlink()
+        (OUT_DIR / name).write_text(svg)
+        point_readme(theme, f"./graph/{name}")
+        print(f"Wrote graph/{name}")
 
 
-def bust_cache(name, version):
-    # GitHub caches raw files for 5 minutes per URL, so give the README a new
-    # URL whenever the graph changes.
+def point_readme(theme, path):
     if not README.exists():
         return
     text = README.read_text()
-    updated = re.sub(rf"{re.escape(name)}(\?v=\w+)?", f"{name}?v={version}", text)
+    pattern = rf"\./(?:graph/{theme}-\w+|combined-graph-{theme})\.svg(?:\?v=\w+)?"
+    updated = re.sub(pattern, path, text)
     if updated != text:
         README.write_text(updated)
 
