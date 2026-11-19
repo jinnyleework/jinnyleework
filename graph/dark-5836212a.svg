@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="848 contributions in the last year: 392 personal, 456 work">
-<style>svg{--t1:#1f2328;--t2:#59636e;--personal:#e16f24;--work:#0969da;--l0:#eff2f5;--l1:#aceebb;--l2:#4ac26b;--l3:#2da44e;--l4:#116329}
+<style>svg{--t1:#f0f6fc;--t2:#9198a1;--personal:#db6d28;--work:#4493f8;--l0:#151b23;--l1:#033a16;--l2:#196c2e;--l3:#2ea043;--l4:#56d364}
 text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--t2)}
 .big{font-size:30px;font-weight:600;fill:var(--t1)}
 .num{font-size:18px;font-weight:600;fill:var(--t1)}
@@ -399,6 +399,7 @@ text{font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-
 <rect x="883.6" y="108.4" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 16, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="883.6" y="124.8" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 17, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <rect x="883.6" y="141.1" width="13.4" height="13.4" rx="2" class="l3"><title>Nov 18, 2026: 21 contributions (personal 10, work 11)</title></rect>
+<rect x="883.6" y="157.5" width="13.4" height="13.4" rx="2" class="l0"><title>Nov 19, 2026: 0 contributions (personal 0, work 0)</title></rect>
 <text x="0" y="233.6">174</text>
 <text x="0" y="269.6">0</text>
 <text x="0" y="251.6" class="cap">/wk</text>
